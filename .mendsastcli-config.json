@@ -1,5 +1,8 @@
 {
   "scans": {
+    "engines": [
+      "4"
+    ],
     "maxFileSize": 0,
     "jsEngineGeneration": 1
   }
